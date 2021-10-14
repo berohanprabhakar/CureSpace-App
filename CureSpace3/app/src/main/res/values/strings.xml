@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CureSpace</string>
+    <string name="dashboard"><u>Corona Warriors</u></string>
+    <string name="logo">CureSpace</string>
+    <string name="wear_mask"><u>Wear Mask</u></string>
+    <string name="wash_hands"><u>Wash Hands</u></string>
+    <string name="keep_distance"><u>Keep Distance</u></string>
+    <string name="get_vaccinated"><u>Get Vaccinated</u></string>
+
+    <string name="wearmasktext">Know More</string>
+    <string name="vaccine_slots"><u>Vaccine Slots</u></string>
+    <string name="blood_slot"><u>Blood Bank</u></string>
+</resources>
